@@ -1,46 +1,57 @@
 [
   {
-    "name": "No Chest",
-    "skill": "No Chest Skill"
+    "name": "None",
+    "skill": "No Chest",
+    "description": "Description for no attribute on chest."
   },
   {
     "name": "Arctic Camo",
-    "skill": "Arctic Camo Skill"
+    "skill": "Arctic Camo Skill",
+    "description": "Description for Arctic Camo on chest."
   },
   {
     "name": "Diamond",
-    "skill": "Diamond Skill"
+    "skill": "Diamond Skill",
+    "description": "Description for Diamond on chest."
   },
   {
     "name": "Fractured",
-    "skill": "Fractured Skill"
+    "skill": "Fractured Skill",
+    "description": "Description for Fractured on chest."
   },
   {
     "name": "Gamer Thrash T",
-    "skill": "Gamer Thrash T Skill"
+    "skill": "Gamer Thrash T Skill",
+    "description": "Description for Gamer Thrash T on chest."
   },
   {
     "name": "Glass",
-    "skill": "Glass Skill"
+    "skill": "Glass Skill",
+    "description": "Description for Glass on chest."
   },
   {
     "name": "Gold",
-    "skill": "Gold Skill"
+    "skill": "Gold Skill",
+    "description": "Description for Gold on chest."
   },
   {
     "name": "Removed",
-    "skill": "Removed Skill"
+    "skill": "Removed Skill",
+    "description": "Description for Removed on chest."
   },
   {
     "name": "Robe",
-    "skill": "Robe Skill"
+    "skill": "Robe Skill",
+    "description": "Description for Robe on chest."
   },
   {
     "name": "Standard Camo",
-    "skill": "Standard Camo Skill"
+    "skill": "Standard Camo Skill",
+    "description": "Description for Standard Camo on chest."
   },
   {
     "name": "T-Chain",
-    "skill": "T-Chain Skill"
+    "skill": "T-Chain Skill",
+    "description": "Description for T-Chain on chest."
   }
 ]

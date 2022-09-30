@@ -1,50 +1,62 @@
 [
   {
-    "name": "No Antenna",
-    "skill": "No Antenna Skill"
+    "name": "None",
+    "skill": "No Antenna",
+    "description": "Description for no attribute on antenna."
   },
   {
     "name": "Improvised",
-    "skill": "Improvised Skill"
+    "skill": "Improvised Skill",
+    "description": "Description for Improvised on antenna."
   },
   {
     "name": "War-Tagged",
-    "skill": "War-Tagged Skill"
+    "skill": "War-Tagged Skill",
+    "description": "Description for War-Tagged on antenna."
   },
   {
     "name": "Diamond Tipped",
-    "skill": "Diamond Tipped Skill"
+    "skill": "Diamond Tipped Skill",
+    "description": "Description for Diamond Tipped on antenna."
   },
   {
     "name": "Boosted Signal",
-    "skill": "Boosted Signal Skill"
+    "skill": "Boosted Signal Skill",
+    "description": "Description for Boosted Signal on antenna."
   },
   {
     "name": "Snapped",
-    "skill": "Snapped Skill"
+    "skill": "Snapped Skill",
+    "description": "Description for Snapped on antenna."
   },
   {
     "name": "Standard",
-    "skill": "Standard Skill"
+    "skill": "Standard Skill",
+    "description": "Description for Standard on antenna."
   },
   {
     "name": "Bent",
-    "skill": "Bent Skill"
+    "skill": "Bent Skill",
+    "description": "Description for Bent on antenna."
   },
   {
     "name": "Plume",
-    "skill": "Plume Skill"
+    "skill": "Plume Skill",
+    "description": "Description for Plume on antenna."
   },
   {
     "name": "Satellite Dish",
-    "skill": "Satellite Dish Skill"
+    "skill": "Satellite Dish Skill",
+    "description": "Description for Satellite Dish on antenna."
   },
   {
     "name": "Joystick",
-    "skill": "Joystick Skill"
+    "skill": "Joystick Skill",
+    "description": "Description for Joystick on antenna."
   },
   {
     "name": "War Horn",
-    "skill": "War Horn Skill"
+    "skill": "War Horn Skill",
+    "description": "Description for War Horn on antenna."
   }
 ]

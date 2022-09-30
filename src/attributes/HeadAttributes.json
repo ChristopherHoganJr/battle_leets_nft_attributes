@@ -1,54 +1,67 @@
 [
   {
-    "name": "No Head",
-    "skill": "No Head Skill"
+    "name": "None",
+    "skill": "No Head",
+    "description": "Description for no attribute on head."
   },
   {
     "name": "Baseball Cap",
-    "skill": "Baseball Cap Skill"
+    "skill": "Baseball Cap Skill",
+    "description": "Description for Baseball Cap on head."
   },
   {
     "name": "Gold Crown",
-    "skill": "Gold Crown Skill"
+    "skill": "Gold Crown Skill",
+    "description": "Description for Gold Crown on head."
   },
   {
     "name": "Hachimaki",
-    "skill": "Hachimaki Skill"
+    "skill": "Hachimaki Skill",
+    "description": "Description for Hachimaki on head."
   },
   {
     "name": "Halo-met",
-    "skill": "Halo-met Skill"
+    "skill": "Halo-met Skill",
+    "description": "Description for Halo-met on head."
   },
   {
     "name": "Headguard",
-    "skill": "Headguard Skill"
+    "skill": "Headguard Skill",
+    "description": "Description for Headguard on head."
   },
   {
     "name": "Headset",
-    "skill": "Headset Skill"
+    "skill": "Headset Skill",
+    "description": "Description for Headset on head."
   },
   {
     "name": "Intelli-Dome",
-    "skill": "Intelli-Dome Skill"
+    "skill": "Intelli-Dome Skill",
+    "description": "Description for Intelli-Dome on head."
   },
   {
     "name": "Maul Horns",
-    "skill": "Maul Horns Skill"
+    "skill": "Maul Horns Skill",
+    "description": "Description for Maul Horns on head."
   },
   {
     "name": "Metal-Hawk",
-    "skill": "Metal-Hawk Skill"
+    "skill": "Metal-Hawk Skill",
+    "description": "Description for Metal-Hawk on head."
   },
   {
     "name": "Obsidian Crown",
-    "skill": "Obsidian Crown Skill"
+    "skill": "Obsidian Crown Skill",
+    "description": "Description for Obsidian Crown on head."
   },
   {
     "name": "Plasma Detectors",
-    "skill": "Plasma Detectors Skill"
+    "skill": "Plasma Detectors Skill",
+    "description": "Description for Plasma Detectors on head."
   },
   {
     "name": "Silver Crown Crown",
-    "skill": "Silver Crown Crown Skill"
+    "skill": "Silver Crown Crown Skill",
+    "description": "Description for Silver Crown Crown on head."
   }
 ]

@@ -22,63 +22,105 @@ function App() {
 
   return (
     <div className='App'>
-      <h1>Battle Leets Skill Loadout</h1>
-      <AttributeSelector
-        heading={"Antenna"}
-        attribute={antenna}
-        setAttribute={setAntenna}
-        attributeTypes={AntennaAttributes}
-      />
-      <AttributeSelector
-        heading={"Head"}
-        attribute={head}
-        setAttribute={setHead}
-        attributeTypes={HeadAttributes}
-      />
-      <AttributeSelector
-        heading={"Face"}
-        attribute={face}
-        setAttribute={setFace}
-        attributeTypes={FaceAttributes}
-      />
-      <AttributeSelector
-        heading={"Chest"}
-        attribute={chest}
-        setAttribute={setChest}
-        attributeTypes={ChestAttributes}
-      />
-      <AttributeSelector
-        heading={"Hands"}
-        attribute={hands}
-        setAttribute={setHands}
-        attributeTypes={HandsAttributes}
-      />
-      <hr />
-      <GameSkill
-        action={"Right Click"}
-        gameSkill={antenna}
-        skillList={AntennaAttributes}
-      />
-      <GameSkill
-        action={"'W' Key"}
-        gameSkill={head}
-        skillList={HeadAttributes}
-      />
-      <GameSkill
-        action={"'E' Key"}
-        gameSkill={face}
-        skillList={FaceAttributes}
-      />
-      <GameSkill
-        action={"'R' Key"}
-        gameSkill={chest}
-        skillList={ChestAttributes}
-      />
-      <GameSkill
-        action={"Left Click"}
-        gameSkill={hands}
-        skillList={HandsAttributes}
-      />
+      <div className='container'>
+        <h1>Battle Leets Skill Loadout</h1>
+        <div className='row'>
+          <div className='col'>
+            <AttributeSelector
+              heading={"Antenna"}
+              attribute={antenna}
+              setAttribute={setAntenna}
+              attributeTypes={AntennaAttributes}
+            />
+          </div>
+        </div>
+        <div className='row'>
+          <div className='col'>
+            <AttributeSelector
+              heading={"Head"}
+              attribute={head}
+              setAttribute={setHead}
+              attributeTypes={HeadAttributes}
+            />
+          </div>
+        </div>
+        <div className='row'>
+          <div className='col'>
+            <AttributeSelector
+              heading={"Face"}
+              attribute={face}
+              setAttribute={setFace}
+              attributeTypes={FaceAttributes}
+            />
+          </div>
+        </div>
+        <div className='row'>
+          <div className='col'>
+            <AttributeSelector
+              heading={"Chest"}
+              attribute={chest}
+              setAttribute={setChest}
+              attributeTypes={ChestAttributes}
+            />
+          </div>
+        </div>
+        <div className='row'>
+          <div className='col'>
+            <AttributeSelector
+              heading={"Hands"}
+              attribute={hands}
+              setAttribute={setHands}
+              attributeTypes={HandsAttributes}
+            />
+          </div>
+        </div>
+        <hr className='border border-dark border-3 opacity-100'></hr>
+        <div className='row'>
+          <div className='col'>
+            <GameSkill
+              action={"Right Click"}
+              gameSkill={antenna}
+              skillList={AntennaAttributes}
+            />
+          </div>
+        </div>
+        <div className='row'>
+          <div className='col'>
+            <GameSkill
+              action={"'W' Key"}
+              gameSkill={head}
+              skillList={HeadAttributes}
+            />
+          </div>
+        </div>
+        <div className='row'>
+          <div className='col'>
+            <GameSkill
+              action={"'E' Key"}
+              gameSkill={face}
+              skillList={FaceAttributes}
+            />
+          </div>
+        </div>
+        <div className='row'>
+          <div className='col'>
+            <GameSkill
+              action={"'R' Key"}
+              gameSkill={chest}
+              skillList={ChestAttributes}
+            />
+          </div>
+        </div>
+        <div className='row'>
+          <div className='col'>
+            <GameSkill
+              action={"Left Click"}
+              gameSkill={hands}
+              skillList={HandsAttributes}
+            />
+          </div>
+        </div>
+      </div>
     </div>
   );
 }

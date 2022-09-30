@@ -7,7 +7,7 @@ const AttributeSelector = ({
   attributeTypes,
 }) => {
   return (
-    <div>
+    <div className='d-flex align-items-center gap-3'>
       <h2>{heading}:</h2>
       <select value={attribute} onChange={(e) => setAttribute(e.target.value)}>
         {attributeTypes.map((item, idx) => (

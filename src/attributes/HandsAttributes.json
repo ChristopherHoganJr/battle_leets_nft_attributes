@@ -1,58 +1,72 @@
 [
   {
-    "name": "No Hands",
-    "skill": "No Hands Skill"
+    "name": "None",
+    "skill": "No Hands",
+    "description": "Description for no attribute on hands."
   },
   {
     "name": "Baseball Bat",
-    "skill": "Baseball Bat Skill"
+    "skill": "Baseball Bat Skill",
+    "description": "Description for Baseball Bat on hands."
   },
   {
     "name": "Boxing Gloves",
-    "skill": "Boxing Gloves Skill"
+    "skill": "Boxing Gloves Skill",
+    "description": "Description for Boxing Gloves on hands."
   },
   {
     "name": "Gamepad",
-    "skill": "Gamepad Skill"
+    "skill": "Gamepad Skill",
+    "description": "Description for Gamepad on hands."
   },
   {
     "name": "Handheld Console",
-    "skill": "Handheld Console Skill"
+    "skill": "Handheld Console Skill",
+    "description": "Description for Handheld Console on hands."
   },
   {
     "name": "Inevitability Glove",
-    "skill": "Inevitability Glove Skill"
+    "skill": "Inevitability Glove Skill",
+    "description": "Description for Inevitability Glove on hands."
   },
   {
     "name": "Katanas",
-    "skill": "Katanas Skill"
+    "skill": "Katanas Skill",
+    "description": "Description for Katanas on hands."
   },
   {
     "name": "Nunchucks",
-    "skill": "Nunchucks Skill"
+    "skill": "Nunchucks Skill",
+    "description": "Description for Nunchucks on hands."
   },
   {
     "name": "Pickaxe",
-    "skill": "Pickaxe Skill"
+    "skill": "Pickaxe Skill",
+    "description": "Description for Pickaxe on hands."
   },
   {
     "name": "Pistols",
-    "skill": "Pistols Skill"
+    "skill": "Pistols Skill",
+    "description": "Description for Pistols on hands."
   },
   {
     "name": "Plasma Cannons",
-    "skill": "Plasma Cannons Skill"
+    "skill": "Plasma Cannons Skill",
+    "description": "Description for Plasma Cannons on hands."
   },
   {
     "name": "Plasma Ray Gun",
-    "skill": "Plasma Ray Gun Skill"
+    "skill": "Plasma Ray Gun Skill",
+    "description": "Description for Plasma Ray Gun on hands."
   },
   {
     "name": "Sabers",
-    "skill": "Sabers Skill"
+    "skill": "Sabers Skill",
+    "description": "Description for Sabers on hands."
   },
   {
     "name": "Thrusters",
-    "skill": "Thrusters Skill"
+    "skill": "Thrusters Skill",
+    "description": "Description for Thrusters on hands."
   }
 ]

@@ -1,46 +1,57 @@
 [
   {
-    "name": "No Face",
-    "skill": "No Face Skill"
+    "name": "None",
+    "skill": "No Face",
+    "description": "Description for no attribute on face."
   },
   {
     "name": "Death-Cross",
-    "skill": "Death-Cross Skill"
+    "skill": "Death-Cross Skill",
+    "description": "Description for Death-Cross on face."
   },
   {
     "name": "Electron Line",
-    "skill": "Electron Line Skill"
+    "skill": "Electron Line Skill",
+    "description": "Description for Electron Line on face."
   },
   {
     "name": "Glowering",
-    "skill": "Glowering Skill"
+    "skill": "Glowering Skill",
+    "description": "Description for Glowering on face."
   },
   {
     "name": "Loading Screen",
-    "skill": "Loading Screen Skill"
+    "skill": "Loading Screen Skill",
+    "description": "Description for Loading Screen on face."
   },
   {
     "name": "Matrix",
-    "skill": "Matrix Skill"
+    "skill": "Matrix Skill",
+    "description": "Description for Matrix on face."
   },
   {
     "name": "Red Ring of Death",
-    "skill": "Red Ring of Death Skill"
+    "skill": "Red Ring of Death Skill",
+    "description": "Description for Red Ring of Death on face."
   },
   {
     "name": "Safe Hero",
-    "skill": "Safe Hero Skill"
+    "skill": "Safe Hero Skill",
+    "description": "Description for Safe Hero on face."
   },
   {
     "name": "Shades",
-    "skill": "Shades Skill"
+    "skill": "Shades Skill",
+    "description": "Description for Shades on face."
   },
   {
     "name": "Signal Bars",
-    "skill": "Signal Bars Skill"
+    "skill": "Signal Bars Skill",
+    "description": "Description for Signal Bars on face."
   },
   {
     "name": "VR Headset",
-    "skill": "VR Headset Skill"
+    "skill": "VR Headset Skill",
+    "description": "Description for VR Headset on face."
   }
 ]
