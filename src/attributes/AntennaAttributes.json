@@ -1,0 +1,50 @@
+[
+  {
+    "name": "No Antenna",
+    "skill": "No Antenna Skill"
+  },
+  {
+    "name": "Improvised",
+    "skill": "Improvised Skill"
+  },
+  {
+    "name": "War-Tagged",
+    "skill": "War-Tagged Skill"
+  },
+  {
+    "name": "Diamond Tipped",
+    "skill": "Diamond Tipped Skill"
+  },
+  {
+    "name": "Boosted Signal",
+    "skill": "Boosted Signal Skill"
+  },
+  {
+    "name": "Snapped",
+    "skill": "Snapped Skill"
+  },
+  {
+    "name": "Standard",
+    "skill": "Standard Skill"
+  },
+  {
+    "name": "Bent",
+    "skill": "Bent Skill"
+  },
+  {
+    "name": "Plume",
+    "skill": "Plume Skill"
+  },
+  {
+    "name": "Satellite Dish",
+    "skill": "Satellite Dish Skill"
+  },
+  {
+    "name": "Joystick",
+    "skill": "Joystick Skill"
+  },
+  {
+    "name": "War Horn",
+    "skill": "War Horn Skill"
+  }
+]

@@ -1,0 +1,13 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.buttonMapping {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

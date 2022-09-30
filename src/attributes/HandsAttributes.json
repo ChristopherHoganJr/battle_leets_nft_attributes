@@ -1,0 +1,58 @@
+[
+  {
+    "name": "No Hands",
+    "skill": "No Hands Skill"
+  },
+  {
+    "name": "Baseball Bat",
+    "skill": "Baseball Bat Skill"
+  },
+  {
+    "name": "Boxing Gloves",
+    "skill": "Boxing Gloves Skill"
+  },
+  {
+    "name": "Gamepad",
+    "skill": "Gamepad Skill"
+  },
+  {
+    "name": "Handheld Console",
+    "skill": "Handheld Console Skill"
+  },
+  {
+    "name": "Inevitability Glove",
+    "skill": "Inevitability Glove Skill"
+  },
+  {
+    "name": "Katanas",
+    "skill": "Katanas Skill"
+  },
+  {
+    "name": "Nunchucks",
+    "skill": "Nunchucks Skill"
+  },
+  {
+    "name": "Pickaxe",
+    "skill": "Pickaxe Skill"
+  },
+  {
+    "name": "Pistols",
+    "skill": "Pistols Skill"
+  },
+  {
+    "name": "Plasma Cannons",
+    "skill": "Plasma Cannons Skill"
+  },
+  {
+    "name": "Plasma Ray Gun",
+    "skill": "Plasma Ray Gun Skill"
+  },
+  {
+    "name": "Sabers",
+    "skill": "Sabers Skill"
+  },
+  {
+    "name": "Thrusters",
+    "skill": "Thrusters Skill"
+  }
+]
