@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/battle_leets_nft_attributes/static/css/main.81dc1d3f.css",
+    "main.js": "/battle_leets_nft_attributes/static/js/main.2ed9f8ef.js",
+    "static/js/787.0e2064a9.chunk.js": "/battle_leets_nft_attributes/static/js/787.0e2064a9.chunk.js",
+    "index.html": "/battle_leets_nft_attributes/index.html",
+    "main.81dc1d3f.css.map": "/battle_leets_nft_attributes/static/css/main.81dc1d3f.css.map",
+    "main.2ed9f8ef.js.map": "/battle_leets_nft_attributes/static/js/main.2ed9f8ef.js.map",
+    "787.0e2064a9.chunk.js.map": "/battle_leets_nft_attributes/static/js/787.0e2064a9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81dc1d3f.css",
+    "static/js/main.2ed9f8ef.js"
+  ]
+}
